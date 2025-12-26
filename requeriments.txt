@@ -1,1 +1,3 @@
-hi
+discord.py
+requests
+TikTokLive
